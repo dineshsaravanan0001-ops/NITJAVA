@@ -11,18 +11,11 @@ for(int i=0;i<arr.length;i++){
 }
 } 
 }*/
-/*public class Array {
+public class Array {
     public static void main(String[] args) {
         String[] names = {"Dinesh", "Rahul", "Lakshit"};
         for (int i = 0; i < names.length; i++) {
             System.out.println("Name at index " + i + ": " + names[i]);
         }
-*/
 
-public class Array{
-    public static void main(String[]args)
-    {
-        int elementsum=0,digigtsum;
-        for (i=0;i<)
-    }
-}
+
